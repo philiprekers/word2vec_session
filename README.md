@@ -4,7 +4,7 @@ Presentation of word embeddings @devcamp18
 ## Links to pre-trained word embeddings
 
 * Download pre-trained glove word embeddings https://nlp.stanford.edu/projects/glove/
-* Collection of pre-trained word embeddings
+* Collection of pre-trained word embeddings http://ahogrammer.com/2017/01/20/the-list-of-pretrained-word-embeddings/
 
 ## Links to educational resources
 
